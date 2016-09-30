@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Brief description of myself
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Geovany A. Ramirez. I'm a postdoc in New Mexico State University and Microsoft Research.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Ph.D. In Computer Science from the University of Texas at El Paso
+- M.S. In Computer Science from National Institute of Astrophysics, Optics and Electronics (http://ccc.inaoep.mx/en/)
+- B.S. In Computer Engineeing from Universidad Popular Autonoma del Estado de Puebla
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
