@@ -4,7 +4,7 @@ title: About me
 subtitle: Brief description of myself
 ---
 
-My name is Geovany A. Ramirez. I'm a postdoc at [New Mexico State University](http://jornada.nmsu.edu/) and [Microsoft Research](https://www.microsoft.com/en-us/research/).
+My name is Geovany A. Ramirez. I'm a research assistant professor at [New Mexico State University](http://jornada.nmsu.edu/) and a visiting researcher at [Microsoft Research](https://www.microsoft.com/en-us/research/).
 
 ### Education
 
